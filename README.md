@@ -4,6 +4,7 @@ InterVuAI is a cutting-edge web application designed to revolutionize the interv
 https://intervuai-t0fo.onrender.com/
 
 **Features**
+
 **1.** AI-Powered Interview Assistance: Real-time feedback and suggestions during interviews.
 **2.** Interview Recording: Securely record video and audio interviews.
 **3.** Automated Transcriptions: Convert interview recordings to text automatically.
