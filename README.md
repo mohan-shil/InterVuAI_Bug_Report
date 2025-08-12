@@ -1,10 +1,8 @@
 InterVuAI is a cutting-edge web application designed to revolutionize the interview experience by leveraging artificial intelligence. Our platform enables users to conduct, record, and analyze interviews with smart AI-powered tools that help improve candidate evaluation and streamline the hiring process.
 
-**Link**
+**Link:** https://intervuai-t0fo.onrender.com/
 
-https://intervuai-t0fo.onrender.com/
-
-**Features**
+**Features:**
 
 **1.** AI-Powered Interview Assistance: Real-time feedback and suggestions during interviews.
 
