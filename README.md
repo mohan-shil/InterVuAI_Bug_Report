@@ -4,9 +4,9 @@ InterVuAI is a cutting-edge web application designed to revolutionize the interv
 
 **Features:**
 
-**1.** AI-Powered Interview Assistance: Real-time feedback and suggestions during interviews.
-**2.** Interview Recording: Securely record video and audio interviews.
-**3.** Automated Transcriptions: Convert interview recordings to text automatically.
-**4.** Candidate Analytics: Generate insights and reports based on interview data.
-**5.** User-friendly Interface: Intuitive and responsive design for seamless use across devices.
+1. AI-Powered Interview Assistance: Real-time feedback and suggestions during interviews.
+2. Interview Recording: Securely record video and audio interviews.
+3. Automated Transcriptions: Convert interview recordings to text automatically.
+4. Candidate Analytics: Generate insights and reports based on interview data.
+5. User-friendly Interface: Intuitive and responsive design for seamless use across devices.
 
